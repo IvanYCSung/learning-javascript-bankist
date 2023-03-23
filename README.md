@@ -9,6 +9,6 @@ Javascript learning project
 6. Displaying date, day and time
 7. Displaying localized data 
 
-Bankist login details -
-User 1: js / Password: 1111
-User 2: jd / Password: 2222
+Bankist login details
+User 1: js - Password: 1111
+User 2: jd - Password: 2222
