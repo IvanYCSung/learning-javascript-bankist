@@ -10,5 +10,5 @@ Javascript learning project
 7. Displaying localized data 
 
 Bankist login details
-User 1: JS - Password: 1111
-User 2: JD - Password: 2222
+User 1: js - Password: 1111
+User 2: jd - Password: 2222
